@@ -1,0 +1,86 @@
+canonical_identifier: bkk:krp/KR6n0056/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0056/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識寶生論
+  identifiers:
+    krp: KR6n0056
+    cbeta: T31n1591
+    cbeta_old_id: T31n1591
+    authorityid: CA0000451
+    json_key: T1591
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1591.xml
+    old_id: T31n1591
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0056_000-T.yaml, hash: 'sha256:e6e22ef71da515934319524572b94b377d1461915635b1f8a7d199e3edad3657'}
+  - {seq: 1, filename: KR6n0056_001-T.yaml, hash: 'sha256:33cadb2cb6d9882289ed4634bbfa8ea9be02a3ca7294d4f31a68390b16cc1aea'}
+  - {seq: 2, filename: KR6n0056_002-T.yaml, hash: 'sha256:562e791a719d01f34c7ab6c4abeb1e782a583a102079347e42f2dbc72b2fa43b'}
+  - {seq: 3, filename: KR6n0056_003-T.yaml, hash: 'sha256:e63cdb9cf2de62e915e76ba7b18d28eb3593adc1031a9a67a6b7e4fc8aff2db6'}
+  - {seq: 4, filename: KR6n0056_004-T.yaml, hash: 'sha256:4dd4b4856a302f9d1709884568c37e22ddf87ea0cc4b044a34064a3b83cafcd9'}
+  - {seq: 5, filename: KR6n0056_005-T.yaml, hash: 'sha256:e90dabb9c407b164c93d31141d24461c5d262e1ebc17f461bfff3a95afd450d4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0056_000-T.markers.yaml, hash: 'sha256:2fb0818114d135ce55c1f9df0292099395ea882be429ba7943e89635e456efbb'}
+  - {seq: 1, role: markers, filename: assets/KR6n0056_001-T.markers.yaml, hash: 'sha256:38b47911d099b039ff9d2e2410f76cddfed540245174119520ac617378f68143'}
+  - {seq: 2, role: markers, filename: assets/KR6n0056_002-T.markers.yaml, hash: 'sha256:3b75331bd141853b5bd663c77ae7059910cb36b62c1dc7c8820c3c402599e03f'}
+  - {seq: 3, role: markers, filename: assets/KR6n0056_003-T.markers.yaml, hash: 'sha256:d691b2f2e0c3fd89b367670fd71cbd1368c1def24f2ce6a3c60963cef159e6e1'}
+  - {seq: 4, role: markers, filename: assets/KR6n0056_004-T.markers.yaml, hash: 'sha256:502424a95956696456dc8920085bf07ff3de8e063a4682316ebdaee60ec16a58'}
+  - {seq: 5, role: markers, filename: assets/KR6n0056_005-T.markers.yaml, hash: 'sha256:e4e6c7eae89f0242149ca0d773c2b9947cd0d647c97ee9431e060f60aafb92c9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0056_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5690
+  label: 成唯識寶生論卷第一一名二十唯識順釋論
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0056_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5575
+  label: 成唯識寶生論卷第二一名二十唯識順釋論
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0056_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6098
+  label: 成唯識寶生論卷第三一名二十唯識順釋論
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0056_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 4348
+  label: 成唯識寶生論卷第四一名二十唯識順釋論
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0056_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5793
+  label: 成唯識寶生論卷第五一名二十唯識順釋論
+  type: juan
+  level: 1
+hash: sha256:095d67fe4eba7bf46a57baeaa411234c04d82cf435cf7254582a2858c31a035c
